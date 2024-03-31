@@ -1,7 +1,7 @@
 ---
 title: first-example
 date: 2024-11-22T09:03:20-08:00
-tags:
+fatags:
   - first
   - post
 ShowReadingTime: true
