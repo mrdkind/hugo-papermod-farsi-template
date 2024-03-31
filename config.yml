@@ -76,17 +76,17 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: سلام امیر پورمند هستم
+    Title: سلام محمدمهدی هستم
     Content: >
-        سلام اینجا قدری درباره همه چیز می‌نویسم
+         اینجا قدری درباره همه چیز می‌نویسم
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/pourmand_amir"
+      url: "https://twitter.com/mrdkind1"
     - name: stackoverflow
       url: "https://stackoverflow.com/"
     - name: github
-      url: "https://github.com/pourmand1376"
+      url: "https://github.com/mrdkind"
 
   analytics:
     google:
