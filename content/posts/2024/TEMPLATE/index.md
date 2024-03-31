@@ -7,4 +7,3 @@ fatags:
   - تجربه
   - متن_باز
 ---
-TEMPLATE 
