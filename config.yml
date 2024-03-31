@@ -102,8 +102,8 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
+    URL: "https://t.me/musiceking"
+    Text: "پیشنهاد اصلاح متن" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
